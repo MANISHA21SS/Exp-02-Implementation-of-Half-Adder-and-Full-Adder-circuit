@@ -38,17 +38,36 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: MANISHA SELVAKUMARI S S
+RegisterNumber: 23012275 
 */
-Logic symbol & Truthtable
-RTL realization
+Code:
+![halfadder code](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/3a1690cd-5f22-4b7b-b342-d00b6d097f43)
+![fulladder code](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/0b0c5bc0-448f-44d4-bbde-ca43d0c91633)
+
 
 ### Output:
+Half adder:
+![halfadder output](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/31d4816e-2a43-4720-949a-e87f78cb41a1)
+Full adder:
+![fulladder output](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/e042d4c3-f5bd-4386-8773-e1c3995ccfcc)
+
 ### RTL
+Half adder:
+![halfadder rtl diagram](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/9580cc8f-7795-479a-b2a9-059f7b505be3)
+Full adder:
+![fulladder rtl diagram](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/1c386898-a910-4415-ba15-c728f6451581)
+
 ### TIMING DIAGRAM
+![half adder timing diagram](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/b7b46f4c-d0f3-414c-be85-865230301d9a)
+![full adder timing diagram](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/3ca0b3b0-c9f7-4a47-b2ce-35759a3264ba)
+
 
 
 ### TRUTH TABLE 
+![half adder truthtable](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/c929d1cd-6fab-4c19-9dd5-2a2f84eb5787)
+![fulladder truthtable](https://github.com/MANISHA21SS/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474298/5085d5d5-13f8-47c7-808c-c1962f6243c0)
+
 
 ### Result:
+Thus the half adder and full adder circuits are designed and the truth table is verified using quartus software.
